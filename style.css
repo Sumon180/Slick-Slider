@@ -1,0 +1,12 @@
+.container {
+  margin: 0 20px;
+  padding: 0 20px;
+}
+.all {
+  display: flex;
+  list-style: none;
+}
+
+.all video {
+  margin: 10px;
+}
