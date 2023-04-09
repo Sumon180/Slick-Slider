@@ -17,10 +17,14 @@
   -webkit-tap-highlight-color: transparent;
 }
 .shorts {
+  height: 761px;
+  width: 428px;
   margin-left: 10px;
   margin-right: 10px;
 }
-
+.shorts * {
+  max-width: 100%;
+}
 
 .slick-list {
   position: relative;

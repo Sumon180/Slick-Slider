@@ -9,7 +9,7 @@ $(".center").slick({
         autoplay: false,
         arrows: false,
         centerMode: true,
-        centerPadding: "440px",
+        centerPadding: "40px",
         slidesToShow: 1,
       },
     },
