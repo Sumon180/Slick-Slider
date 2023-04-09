@@ -6,9 +6,10 @@ $(".center").slick({
     {
       breakpoint: 768,
       settings: {
+        autoplay: false,
         arrows: false,
         centerMode: true,
-        centerPadding: "40px",
+        centerPadding: "440px",
         slidesToShow: 1,
       },
     },
